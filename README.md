@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Geozedeque+Guimar%C3%A3es!;iOS+Developer+%7C+Swift+%7C+SwiftUI;Front-end+Developer+%7C+React+%7C+TypeScript" alt="Typing SVG" />
+# Geozedeque Guimarães
 
 **Estudante de Ciência da Computação · CIn-UFPE · Recife, PE, Brasil**
 
@@ -39,8 +39,10 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeozedequeGuimaraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeozedequeGuimaraes&theme=dracula&hide_border=true&layout=compact&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeozedequeGuimaraes&theme=dracula" width="100%" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeozedequeGuimaraes&theme=dracula" width="49%" alt="Top Languages by Repo" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GeozedequeGuimaraes&theme=dracula&hide_border=true" width="49%" alt="Streak Stats" />
 
 </div>
 
