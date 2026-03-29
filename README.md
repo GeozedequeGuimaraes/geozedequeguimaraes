@@ -41,8 +41,6 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeozedequeGuimaraes&bg_color=D8DEFF&title_color=3D5AF1&text_color=1A1A2E&icon_color=3D5AF1" height="180" alt="Top Languages" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeozedequeGuimaraes&bg_color=D8DEFF&title_color=3D5AF1&text_color=1A1A2E&icon_color=3D5AF1" height="180" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GeozedequeGuimaraes&bg_color=D8DEFF&title_color=3D5AF1&text_color=1A1A2E&icon_color=3D5AF1" height="180" alt="Commits" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=GeozedequeGuimaraes&hide_border=false&background=D8DEFF&stroke=B4C4FF&ring=E63946&fire=E63946&currStreakNum=3D5AF1&sideNums=1A1A2E&currStreakLabel=3D5AF1&sideLabels=1A1A2E&dates=1A1A2E&border_radius=5" width="98%" alt="Streak Stats" />
 
 </div>
