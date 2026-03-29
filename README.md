@@ -20,10 +20,10 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 
 <div align="center">
 
-| 🥇 Conquista | Descrição |
+| Conquista | Descrição |
 |:---:|:---|
-| 🍎 **WWDC23 Swift Student Challenge Winner** | Prêmio global da Apple pelo projeto **Annie And The Ocean** — jogo educativo iOS feito com Swift, SwiftUI e SpriteKit |
-| 🎓 **Apple Developer Academy Alumni** | Formado pela Academy do CIn-UFPE, com projetos reais publicados na App Store |
+| **WWDC23 Swift Student Challenge Winner** | Prêmio global da Apple pelo projeto **Annie And The Ocean** — jogo educativo iOS feito com Swift, SwiftUI e SpriteKit |
+| **Apple Developer Academy Alumni** | Formado pela Academy do CIn-UFPE, com projetos reais publicados na App Store |
 
 </div>
 
@@ -67,11 +67,11 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 
 | Projeto | Descrição | Stack | Destaque |
 |:---|:---|:---|:---:|
-| [🔍 GitSearch](https://github.com/GeozedequeGuimaraes/GitSearch) | App iOS para busca e visualização de perfis do GitHub | Swift · UIKit | — |
-| [🌙 Lunar](https://github.com/GeozedequeGuimaraes/Lunar) | App iOS com navegação lunar interativa — Apple Developer Academy | Swift · SwiftUI | — |
-| [🌊 Annie And The Ocean](https://github.com/GeozedequeGuimaraes/Annie-And-The-Ocean) | Jogo educativo iOS sobre o oceano | Swift · SwiftUI · SpriteKit | 🏆 WWDC23 Winner |
-| [🌿 Demeter](https://github.com/GeozedequeGuimaraes/Demeter) | App iOS de astrologia + botânica — Apple Developer Academy | Swift · UIKit | — |
-| [💻 2024.1-Equipe3](https://github.com/GeozedequeGuimaraes/2024.1-Equipe3) | Front-end React — Eng. de Software CIn-UFPE | TypeScript · React | — |
+| [GitSearch](https://github.com/GeozedequeGuimaraes/GitSearch) | App iOS para busca e visualização de perfis do GitHub | Swift · UIKit | — |
+| [Lunar](https://github.com/GeozedequeGuimaraes/Lunar) | App iOS com navegação lunar interativa — Apple Developer Academy | Swift · SwiftUI | — |
+| [Annie And The Ocean](https://github.com/GeozedequeGuimaraes/Annie-And-The-Ocean) | Jogo educativo iOS sobre o oceano | Swift · SwiftUI · SpriteKit | WWDC23 Winner |
+| [Demeter](https://github.com/GeozedequeGuimaraes/Demeter) | App iOS de astrologia + botânica — Apple Developer Academy | Swift · UIKit | — |
+| [2024.1-Equipe3](https://github.com/GeozedequeGuimaraes/2024.1-Equipe3) | Front-end React — Eng. de Software CIn-UFPE | TypeScript · React | — |
 
 </div>
 
@@ -79,12 +79,12 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 Cursando **Ciência da Computação** no CIn-UFPE (Recife, PE)
-- 📱 Desenvolvedor **iOS** com experiência em **Swift**, **UIKit** e **SwiftUI**
-- 🌐 Desenvolvedor **Front-end** com **React** e **TypeScript**
-- 🏆 **WWDC23 Swift Student Challenge Winner** — Annie And The Ocean
-- 🍎 Alumnus do **Apple Developer Academy**
-- 🚀 Apaixonado por tecnologia inclusiva e diversidade no tech
+- Cursando **Ciência da Computação** no CIn-UFPE (Recife, PE)
+- Desenvolvedor **iOS** com experiência em **Swift**, **UIKit** e **SwiftUI**
+- Desenvolvedor **Front-end** com **React** e **TypeScript**
+- **WWDC23 Swift Student Challenge Winner** — Annie And The Ocean
+- Alumnus do **Apple Developer Academy**
+- Apaixonado por tecnologia inclusiva e diversidade no tech
 
 ---
 
