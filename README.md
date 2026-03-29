@@ -16,7 +16,20 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 
 ---
 
-## Tecnologias & Ferramentas
+## 🏆 Conquistas em Destaque
+
+<div align="center">
+
+| 🥇 Conquista | Descrição |
+|:---:|:---|
+| 🍎 **WWDC23 Swift Student Challenge Winner** | Prêmio global da Apple pelo projeto **Annie And The Ocean** — jogo educativo iOS feito com Swift, SwiftUI e SpriteKit |
+| 🎓 **Apple Developer Academy Alumni** | Formado pela Academy do CIn-UFPE, com projetos reais publicados na App Store |
+
+</div>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -35,47 +48,49 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeozedequeGuimaraes&bg_color=D8DEFF&title_color=3D5AF1&text_color=1A1A2E&icon_color=3D5AF1" height="180" alt="Top Languages" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeozedequeGuimaraes&bg_color=D8DEFF&title_color=3D5AF1&text_color=1A1A2E&icon_color=3D5AF1" height="180" alt="Stats" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=GeozedequeGuimaraes&hide_border=false&background=D8DEFF&stroke=B4C4FF&ring=E63946&fire=E63946&currStreakNum=3D5AF1&sideNums=1A1A2E&currStreakLabel=3D5AF1&sideLabels=1A1A2E&dates=1A1A2E&border_radius=5" width="98%" alt="Streak Stats" />
 
 </div>
 
 ---
 
-## Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
-| Projeto | Descricao | Stack | Destaque |
+| Projeto | Descrição | Stack | Destaque |
 |:---|:---|:---|:---:|
-| [GitSearch](https://github.com/GeozedequeGuimaraes/GitSearch) | App iOS para busca de perfis do GitHub | Swift · UIKit | — |
-| [Lunar](https://github.com/GeozedequeGuimaraes/Lunar) | App iOS — Apple Developer Academy | Swift · SwiftUI | — |
-| [Annie And The Ocean](https://github.com/GeozedequeGuimaraes/Annie-And-The-Ocean) | Jogo educativo iOS | Swift · SwiftUI · SpriteKit | WWDC23 Winner |
-| [Demeter](https://github.com/GeozedequeGuimaraes/Demeter) | App iOS de astrologia + botanica | Swift · UIKit | — |
-| [2024.1-Equipe3](https://github.com/GeozedequeGuimaraes/2024.1-Equipe3) | Front-end React — Eng. de Software CIn-UFPE | TypeScript · React | — |
+| [🔍 GitSearch](https://github.com/GeozedequeGuimaraes/GitSearch) | App iOS para busca e visualização de perfis do GitHub | Swift · UIKit | — |
+| [🌙 Lunar](https://github.com/GeozedequeGuimaraes/Lunar) | App iOS com navegação lunar interativa — Apple Developer Academy | Swift · SwiftUI | — |
+| [🌊 Annie And The Ocean](https://github.com/GeozedequeGuimaraes/Annie-And-The-Ocean) | Jogo educativo iOS sobre o oceano | Swift · SwiftUI · SpriteKit | 🏆 WWDC23 Winner |
+| [🌿 Demeter](https://github.com/GeozedequeGuimaraes/Demeter) | App iOS de astrologia + botânica — Apple Developer Academy | Swift · UIKit | — |
+| [💻 2024.1-Equipe3](https://github.com/GeozedequeGuimaraes/2024.1-Equipe3) | Front-end React — Eng. de Software CIn-UFPE | TypeScript · React | — |
 
 </div>
 
 ---
 
-## Sobre Mim
+## 👨‍💻 Sobre Mim
 
-- Cursando **Ciência da Computação** no CIn-UFPE (Recife, PE)
-- Desenvolvedor **iOS** com experiência em **Swift**, **UIKit** e **SwiftUI**
-- Desenvolvedor **Front-end** com **React** e **TypeScript**
-- **WWDC23 Swift Student Challenge Winner** - Annie And The Ocean
-- Alumnus do **Apple Developer Academy**
-- Apaixonado por tecnologia inclusiva e diversidade no tech
+- 🎓 Cursando **Ciência da Computação** no CIn-UFPE (Recife, PE)
+- 📱 Desenvolvedor **iOS** com experiência em **Swift**, **UIKit** e **SwiftUI**
+- 🌐 Desenvolvedor **Front-end** com **React** e **TypeScript**
+- 🏆 **WWDC23 Swift Student Challenge Winner** — Annie And The Ocean
+- 🍎 Alumnus do **Apple Developer Academy**
+- 🚀 Apaixonado por tecnologia inclusiva e diversidade no tech
 
 ---
 
 <div align="center">
 
-*"Mais importante do que qual a linguagem de programação que você domina, passa a ser qual a pergunta que você responde enquanto você programa." — Gabi Augustin*
+*"Mais importante do que qual a linguagem de programação que você domina, passa a ser qual a pergunta que você responde enquanto você programa."*
+— **Gabi Augustin**
 
 </div>
