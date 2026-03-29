@@ -4,9 +4,7 @@
 
 **Estudante de Ciência da Computação · CIn-UFPE · Recife, PE, Brasil**
 
-Desenvolvedor apaixonado por tecnologia e por tornar o espaço tech mais **diverso e inclusivo**.
-Experiência com **iOS (Swift)**, **Front-end (React/TypeScript)** e **Python**.
-Sempre aprendendo, colaborando e resolvendo problemas reais com código.
+Desenvolvedor apaixonado por tecnologia e por tornar o espaço tech mais **diverso e inclusivo**. Experiência com **iOS (Swift)**, **Front-end (React/TypeScript)** e **Python**. Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geozedeque-guimaraes)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geozedeque@gmail.com)
@@ -71,7 +69,7 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 | [HabitFlow](https://github.com/GeozedequeGuimaraes/HabitFlow) | App iOS de rastreamento de hábitos com SwiftUI, SwiftData, Charts e WidgetKit | Swift · SwiftUI | — |
 | [devfinder-pro](https://github.com/GeozedequeGuimaraes/devfinder-pro) | Dashboard web que busca perfis do GitHub e exibe estatísticas e repositórios filtráveis | TypeScript · React | — |
 | [Lunar](https://github.com/GeozedequeGuimaraes/Lunar) | Calculadora iOS com tema lunar, animações fluidas — Apple Developer Academy | Swift · UIKit | 🍎 Academy |
-| [GitSearch](https://github.com/GeozedequeGuimaraes/GitSearch) | App iOS para busca e visualização de perfis do GitHub | Swift · UIKit | — |
+| [freirinho-jogo-espacial](https://github.com/GeozedequeGuimaraes/freirinho-jogo-espacial) | Jogo educativo espacial em Python — nave coleta letras para formar palavras | Python · Pygame | — |
 | [Demeter](https://github.com/GeozedequeGuimaraes/Demeter) | App iOS de astrologia e botânica — Apple Developer Academy | Swift · UIKit | 🍎 Academy |
 
 </div>
@@ -89,8 +87,8 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 
 ---
 
-          <div align="center">
+<div align="center">
 
-          *"Mais importante do que qual a linguagem de programação que você domina, passa a ser qual a pergunta que você responde enquanto você programa."* — **Gabi Augustin**
+*"Mais importante do que qual a linguagem de programação que você domina, passa a ser qual a pergunta que você responde enquanto você programa."* — **Gabi Augustin**
 
-          </div>
+</div>
