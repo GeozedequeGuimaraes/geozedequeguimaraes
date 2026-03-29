@@ -67,11 +67,12 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 
 | Projeto | Descrição | Stack | Destaque |
 |:---|:---|:---|:---:|
+| [Annie And The Ocean](https://github.com/GeozedequeGuimaraes/Annie-And-The-Ocean) | Swift Playground com história interativa sobre o oceano | Swift · SwiftUI · SpriteKit | 🏆 WWDC23 Winner |
+| [HabitFlow](https://github.com/GeozedequeGuimaraes/HabitFlow) | App iOS de rastreamento de hábitos com SwiftUI, SwiftData, Charts e WidgetKit | Swift · SwiftUI | — |
+| [devfinder-pro](https://github.com/GeozedequeGuimaraes/devfinder-pro) | Dashboard web que busca perfis do GitHub e exibe estatísticas e repositórios filtráveis | TypeScript · React | — |
+| [Lunar](https://github.com/GeozedequeGuimaraes/Lunar) | Calculadora iOS com tema lunar, animações fluidas — Apple Developer Academy | Swift · UIKit | 🍎 Academy |
 | [GitSearch](https://github.com/GeozedequeGuimaraes/GitSearch) | App iOS para busca e visualização de perfis do GitHub | Swift · UIKit | — |
-| [Lunar](https://github.com/GeozedequeGuimaraes/Lunar) | App iOS com navegação lunar interativa — Apple Developer Academy | Swift · SwiftUI | — |
-| [Annie And The Ocean](https://github.com/GeozedequeGuimaraes/Annie-And-The-Ocean) | Jogo educativo iOS sobre o oceano | Swift · SwiftUI · SpriteKit | WWDC23 Winner |
-| [Demeter](https://github.com/GeozedequeGuimaraes/Demeter) | App iOS de astrologia + botânica — Apple Developer Academy | Swift · UIKit | — |
-| [2024.1-Equipe3](https://github.com/GeozedequeGuimaraes/2024.1-Equipe3) | Front-end React — Eng. de Software CIn-UFPE | TypeScript · React | — |
+| [Demeter](https://github.com/GeozedequeGuimaraes/Demeter) | App iOS de astrologia e botânica — Apple Developer Academy | Swift · UIKit | 🍎 Academy |
 
 </div>
 
@@ -88,9 +89,8 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 
 ---
 
-<div align="center">
+          <div align="center">
 
-*"Mais importante do que qual a linguagem de programação que você domina, passa a ser qual a pergunta que você responde enquanto você programa."*
-— **Gabi Augustin**
+          *"Mais importante do que qual a linguagem de programação que você domina, passa a ser qual a pergunta que você responde enquanto você programa."* — **Gabi Augustin**
 
-</div>
+          </div>
