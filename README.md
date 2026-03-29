@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # Geozedeque Guimarães
 
 **Estudante de Ciência da Computação · CIn-UFPE · Recife, PE, Brasil**
@@ -7,6 +7,7 @@
 Desenvolvedor apaixonado por tecnologia e por tornar o espaço tech mais **diverso e inclusivo**.
 Experiência com **iOS (Swift)**, **Front-end (React/TypeScript)** e **Python**.
 Sempre aprendendo, colaborando e resolvendo problemas reais com código.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geozedeque-guimaraes)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geozedeque@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeozedequeGuimaraes)
@@ -18,7 +19,7 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 ## Tecnologias & Ferramentas
 
 <div align="center">
-  
+
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,15 +34,15 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 </div>
 
 ---
+
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeozedequeGuimaraes&theme=2077" width="49%" alt="Top Languages by Repo" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GeozedequeGuimaraes&hide_border=true&background=0D1117&stroke=00E5A0&ring=00B4D8&fire=00E5A0&currStreakNum=FFFFFF&sideNums=ADBAC7&currStreakLabel=00B4D8&sideLabels=ADBAC7&dates=ADBAC7" width="49%" alt="Streak Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeozedequeGuimaraes&bg_color=D8DEFF&title_color=3D5AF1&text_color=1A1A2E&icon_color=3D5AF1" width="49%" alt="Top Languages by Repo" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GeozedequeGuimaraes&hide_border=false&background=D8DEFF&stroke=3D5AF1&ring=E63946&fire=E63946&currStreakNum=3D5AF1&sideNums=1A1A2E&currStreakLabel=3D5AF1&sideLabels=1A1A2E&dates=1A1A2E&border_radius=10" width="49%" alt="Streak Stats" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeozedequeGuimaraes&theme=2077" width="49%" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GeozedequeGuimaraes&theme=2077&utcOffset=-3" width="49%" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeozedequeGuimaraes&bg_color=D8DEFF&title_color=3D5AF1&text_color=1A1A2E&icon_color=3D5AF1" width="98%" alt="Stats" />
 
 </div>
 
