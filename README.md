@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # Geozedeque Guimarães
 
 **Estudante de Ciência da Computação · CIn-UFPE · Recife, PE, Brasil**
@@ -7,7 +7,6 @@
 Desenvolvedor apaixonado por tecnologia e por tornar o espaço tech mais **diverso e inclusivo**.
 Experiência com **iOS (Swift)**, **Front-end (React/TypeScript)** e **Python**.
 Sempre aprendendo, colaborando e resolvendo problemas reais com código.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geozedeque-guimaraes)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geozedeque@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeozedequeGuimaraes)
@@ -19,7 +18,7 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 ## Tecnologias & Ferramentas
 
 <div align="center">
-
+  
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,15 +33,15 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 </div>
 
 ---
-
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeozedequeGuimaraes&theme=dracula" width="100%" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeozedequeGuimaraes&theme=2077" width="49%" alt="Top Languages by Repo" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GeozedequeGuimaraes&hide_border=true&background=0D1117&stroke=00E5A0&ring=00B4D8&fire=00E5A0&currStreakNum=FFFFFF&sideNums=ADBAC7&currStreakLabel=00B4D8&sideLabels=ADBAC7&dates=ADBAC7" width="49%" alt="Streak Stats" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeozedequeGuimaraes&theme=dracula" width="49%" alt="Top Languages by Repo" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GeozedequeGuimaraes&theme=dracula&hide_border=true" width="49%" alt="Streak Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeozedequeGuimaraes&theme=2077" width="49%" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GeozedequeGuimaraes&theme=2077&utcOffset=-3" width="49%" alt="Productive Time" />
 
 </div>
 
@@ -69,7 +68,7 @@ Sempre aprendendo, colaborando e resolvendo problemas reais com código.
 - Cursando **Ciência da Computação** no CIn-UFPE (Recife, PE)
 - Desenvolvedor **iOS** com experiência em **Swift**, **UIKit** e **SwiftUI**
 - Desenvolvedor **Front-end** com **React** e **TypeScript**
-- **WWDC23 Swift Student Challenge Winner** — Annie And The Ocean
+- **WWDC23 Swift Student Challenge Winner** - Annie And The Ocean
 - Alumnus do **Apple Developer Academy**
 - Apaixonado por tecnologia inclusiva e diversidade no tech
 
